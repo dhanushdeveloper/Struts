@@ -1,1 +1,1 @@
-# Struts login and Rgestration
+# Struts login and Registration
