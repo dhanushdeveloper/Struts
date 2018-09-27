@@ -1,1 +1,1 @@
-# Strutsbasic
+# Struts login and Rgestration
